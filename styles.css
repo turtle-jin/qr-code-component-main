@@ -60,7 +60,7 @@ body {
 }
 
 .container p {
-    font-weight: 400;
+    /* font-weight: 400; */
     color: var(--GrayishBlue);
     font-size: 0.9rem;
     padding-bottom: 20px;
